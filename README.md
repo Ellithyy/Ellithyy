@@ -99,14 +99,11 @@ const muhammad: Developer = {
 
 ### 🎨 UI/UX Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+
 
 ### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
@@ -114,17 +111,7 @@ const muhammad: Developer = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ellithyy&show_icons=true&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&icon_color=58A6FF&text_color=8B949E&title_color=58A6FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellithyy&layout=compact&theme=github_dark&hide_title=true&langs_count=8&hide_border=true&bg_color=0D1117&text_color=8B949E&title_color=58A6FF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ellithyy&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF" />
-
-</div>
 
 ---
 
