@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Muhammad%20Ellithy&fontSize=55&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Mobile%20Developer%20%7C%20Flutter%20%26%20ASP.NET&descAlignY=58&descColor=8B949E" width="100%"/>
+
 
 <br/>
 
