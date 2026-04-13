@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Muhammad%20Ellithy&fontSize=55&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Mobile%20Developer%20%7C%20Flutter%20%26%20ASP.NET&descAlignY=58&descColor=8B949E" width="100%"/>
 
 <br/>
 
@@ -11,7 +10,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-ellithy-dev.vercel.app/)
 [![Portfolio Repo](https://img.shields.io/badge/Portfolio%20Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ellithyy/muhammad-ellithy-dev)
 
-<img src="https://komarev.com/ghpvc/?username=Ellithyy&color=58A6FF&style=flat-square&label=Profile+Views" />
 
 </div>
 
